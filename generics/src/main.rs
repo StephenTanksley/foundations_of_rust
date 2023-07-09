@@ -117,17 +117,17 @@
 // }
 
 // What's actually happening under the hood --->
-enum Option_I32<i32> {
-    Some(i32),
-    None,
-}
+// enum Option_I32<i32> {
+//     Some(i32),
+//     None,
+// }
 
-enum Option_F64<f64> {
-    Some(f64),
-    None,
-}
+// enum Option_F64<f64> {
+//     Some(f64),
+//     None,
+// }
 
-fn main() {
-    let integer = Option_I32::Some(5);
-    let float = Option_F64::Some(5.0);
-}
+// fn main() {
+//     let integer = Option_I32::Some(5);
+//     let float = Option_F64::Some(5.0);
+// }
