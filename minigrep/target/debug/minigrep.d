@@ -1,0 +1,1 @@
+C:\Users\steph\Documents\Code\rust\foundations_of_rust\minigrep\target\debug\minigrep.exe: C:\Users\steph\Documents\Code\rust\foundations_of_rust\minigrep\src\lib.rs C:\Users\steph\Documents\Code\rust\foundations_of_rust\minigrep\src\main.rs
